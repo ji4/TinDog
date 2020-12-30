@@ -63,12 +63,14 @@ p{
 .title-image{
 	width: 60%;
 	transform: rotate(25deg);
+	position: absolute;
 }
 
 /*Features Section*/
 #features{
+	background-color: white; 
 	padding: 7% 15%;
-	
+	position: relative;
 }
 
 .feature-box{
